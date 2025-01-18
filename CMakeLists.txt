@@ -59,7 +59,7 @@ pkg_check_modules(
   pango
   pangocairo
   hyprlang>=0.6.0
-  hyprutils>=0.2.4
+  hyprutils>=0.3.3
   hyprgraphics)
 
 file(GLOB_RECURSE SRCFILES "src/*.cpp")
